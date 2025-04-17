@@ -108,3 +108,10 @@ The assignment enhances understanding of:
 - Cloud infrastructure setup
 - Auto-scaling principles
 - GCP orchestration
+- 
+
+---
+
+## Author
+
+**Nidhi Rani**
