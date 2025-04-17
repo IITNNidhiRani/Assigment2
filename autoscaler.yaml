@@ -1,0 +1,7 @@
+ame: web-instance-group
+target: https://www.googleapis.com/compute/v1/projects/My First Project/zones/us-central1-a/instanceGroups/web-instance-group
+autoscalingPolicy:
+  minNumReplicas: 1
+  maxNumReplicas: 5
+  cpuUtilization:
+    utilizationTarget: 0.6
