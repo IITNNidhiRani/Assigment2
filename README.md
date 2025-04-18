@@ -82,7 +82,7 @@ Documentation	: Markdown, Screenshots, Video Recording (OBS)
 
 7. **Documented Results**
    - Noted CPU remained at ~10.82%, no scaling triggered.
-   - Verified IAM and firewall functionalit
+   - Verified IAM and firewall functionality
 
 ## Testing & Observation
 During load simulation using the `stress` tool, the CPU usage stayed at **approximately 10.82%**, which was below the scaling threshold.
@@ -93,7 +93,7 @@ During load simulation using the `stress` tool, the CPU usage stayed at **approx
 - Metrics indicated network, disk, and CPU activity aligned with expected behavior.
 - IAM and firewall restrictions worked as configured.
 ## Repository & Demo
-**Source Code:**
+**Source Code:** https://github.com/IITNNidhiRani/Assigment2
 
 **Video Demonstration:** https://youtu.be/bjnUDzxJ9Pc
 ## ✅ Conclusion
