@@ -95,7 +95,7 @@ During load simulation using the `stress` tool, the CPU usage stayed at **approx
 ## Repository & Demo
 **Source Code:**
 
-**Video Demonstration:**
+**Video Demonstration:** https://youtu.be/bjnUDzxJ9Pc
 ## ✅ Conclusion
 This project demonstrates the practical implementation of a **scalable and secure virtual machine environment** on **Google Cloud Platform (GCP)**.
 
